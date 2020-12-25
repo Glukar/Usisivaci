@@ -1,0 +1,106 @@
+.glavno {
+    position: sticky;
+    -moz-position: sticky;
+    top: 0%;
+
+    width: 1903px;
+    height:20%;
+    border:1px solid rgb(190, 190, 190);
+    background-image: linear-gradient(top, black, black 16%, transparent 10%, transparent 100%);
+    background-image: -webkit-linear-gradient(top, black, black 16%, transparent 10%, transparent 100%);
+    
+    margin-left: -10px;
+
+    background-color: white;
+    
+    z-index: 2;
+}
+
+#naslov {
+    font-size: 2.25em;
+    position: absolute;
+
+    top: 45px;
+    left: 17%;
+    margin-top: -8px;
+}
+
+#main-selection {
+    list-style-type: none;
+   
+    overflow: hidden;
+    padding-right: 8.8;
+    margin-right: 15%;
+
+    /* background-color: */
+    text-align: center;
+   
+    top: 0%;
+    left: 80%;
+
+    background-color: white;
+}
+
+#main-menu {
+    float: right;
+}
+
+#main-menu {
+    display: block;
+    padding: 5px;
+    margin-left: 1.7%;
+    margin-right: auto;
+    padding: 13px;
+    padding-top: 30px;
+   
+    /* color: rgb();  */
+    
+    font-size: 1.23em;
+}
+
+#main-menu:hover {
+    animation-name: hover;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+}
+
+.ikonica {
+    width: 3%;
+    float: left;
+    position: absolute;
+    display: block;
+    top: 30px;
+    left: 14%;
+}
+
+
+li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a:link {
+    color:black;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+@keyframes hover {
+    from {background-color: white;}
+    to {background-color: rgba(228, 237, 230, 0.836);}
+}
