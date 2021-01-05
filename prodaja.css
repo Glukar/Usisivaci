@@ -104,3 +104,9 @@ body {
     from {background-color: white;}
     to {background-color: rgba(228, 237, 230, 0.836);}
 }
+
+table {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
