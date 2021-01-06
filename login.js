@@ -29,6 +29,8 @@
 //     }
 // })
 
+// FUNKCIONALNI DEO KODA.
+
 function login() {
     var uname = document.getElementById("email").value;
     var pwd = document.getElementById("pwd").value;
