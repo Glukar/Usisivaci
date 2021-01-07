@@ -1,1 +1,2 @@
-Jedan <tr> je za sam usisivac, a drugi je za cenu, namesti tako da table bude centriran i dodaj jos usisivaca.
+Napravi tako da sifra vodi na tehnomanijin sajt sa tim usisivacem.
+
