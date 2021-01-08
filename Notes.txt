@@ -1,2 +1,3 @@
 Napravi tako da sifra vodi na tehnomanijin sajt sa tim usisivacem.
+Dodaj jos robot usisivaca
 
