@@ -1,2 +1,1 @@
-Kreni da dodavas usisivace na prodaja1.
-
+Usisivaci2 je mesavina izmedju usisivaci1 i klasicne verzije, gde postoji tabela koja ima slika kao i cenu.
