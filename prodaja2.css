@@ -73,6 +73,13 @@
     left: 14%;
 }
 
+table {
+    margin-left: 20%;
+    margin-right: auto;
+
+    width: 60%;
+}
+
 a {
     text-decoration: none;
 }
